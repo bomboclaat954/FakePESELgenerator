@@ -1,6 +1,6 @@
 # FakePESELgenerator
 
-This program can generate a fake PESEL numer which is fully correct. FOR EDUCATIONAL PURPOSES ONLY!
+This program can generate a fake PESEL number (people from Poland will understand) which is fully correct. FOR EDUCATIONAL PURPOSES ONLY!
 
 # Usage
 
